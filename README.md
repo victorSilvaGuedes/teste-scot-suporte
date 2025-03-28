@@ -3,7 +3,7 @@
 - sguedes.victor@gmail.com
 - https://www.linkedin.com/in/victorsilvaguedes/
 
-# Solução teste suporte técnico Scot Consultoria
+# Solução teste suporte Scot Consultoria
 
 ## Passo a passo para rodar a aplicação:
 
